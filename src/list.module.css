@@ -1,0 +1,31 @@
+.task{
+    background-color: rgb(145, 127, 104);
+    text-align: left;
+    list-style-type: none;
+    padding: 0.5em;
+    border-radius: 1em;
+    margin: 0.25em;
+}
+.task_list{
+    width: 60em;
+    margin: 0 auto;
+    margin-top: 3em;
+    padding: 0;
+    border-radius: 1em;
+}
+.add_button{
+    border: none;
+    font-size: 1.5em;
+}
+.add_input{
+    background-color: rgb(192, 171, 145);
+    border: none;
+    font-size: 1.5em;
+}
+.complete_button{
+    border: none;
+    position: relative;
+    right: 0%;
+    margin-right: 0.5em;
+    border-radius: 0.5em;
+}
